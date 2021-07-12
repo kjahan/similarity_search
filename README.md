@@ -7,4 +7,4 @@ This repo just demos how to use Faiss.
 
 [Billion-scale similarity search with GPUs](https://arxiv.org/pdf/1702.08734.pdf)
 
-[Faiss github repo](https://github.com/facebookresearch/faiss)
+[Faiss repo](https://github.com/facebookresearch/faiss)
